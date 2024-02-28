@@ -5,7 +5,7 @@
   font-family: "Montserrat", sans-serif;
 }
 
-main {
+.clients {
   background-color: #19b387;
 }
 
@@ -20,7 +20,7 @@ main {
   justify-content: center;
   gap: 30px;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_alfa-list {
     flex-direction: column;
   }
@@ -38,7 +38,7 @@ main {
   font-weight: 400;
   color: #252B42;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_betta-head {
     max-width: 230px;
   }
@@ -51,7 +51,7 @@ main {
   justify-content: center;
   gap: 30px;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_betta-list {
     flex-direction: column;
   }
@@ -69,7 +69,7 @@ main {
   font-weight: 700;
   color: #252B42;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_gamma-up-head {
     max-width: 287px;
   }
@@ -81,7 +81,7 @@ main {
   font-size: 14px;
   font-weight: 400;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_gamma-up-paragraph {
     max-width: 328px;
   }
@@ -94,7 +94,7 @@ main {
   justify-content: center;
   gap: 30px;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_gamma-list {
     flex-direction: column;
   }
@@ -109,7 +109,7 @@ main {
   justify-content: space-between;
   box-sizing: unset;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_delta {
     flex-direction: column;
     row-gap: 37px;
@@ -126,7 +126,7 @@ main {
   font-size: 14px;
   font-weight: 400;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_delta-left-up {
     display: none;
   }
@@ -135,7 +135,7 @@ main {
   font-size: 24px;
   font-weight: 700;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_delta-left-head {
     max-width: 258px;
   }
@@ -146,7 +146,7 @@ main {
   font-size: 14px;
   font-weight: 400;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_delta-left-paragraph {
     max-width: 227px;
   }
@@ -156,7 +156,7 @@ main {
   justify-content: center;
   column-gap: 10px;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_delta-left-list {
     flex-direction: column;
     row-gap: 10px;
@@ -189,7 +189,7 @@ main {
   font-size: 14px;
   font-weight: 400;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_delta-right-up {
     max-width: 257px;
     color: #8EC2F2;
@@ -199,7 +199,7 @@ main {
   font-size: 24px;
   font-weight: 700;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_delta-right-head {
     max-width: 257px;
   }
@@ -210,7 +210,7 @@ main {
   font-size: 14px;
   font-weight: 400;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_delta-right-paragraph {
     max-width: 227px;
   }
@@ -221,7 +221,7 @@ main {
   justify-content: center;
   column-gap: 40px;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_delta-right-list {
     flex-direction: column;
     row-gap: 32px;
@@ -240,7 +240,7 @@ main {
   background-color: #fff;
   box-sizing: unset;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_epsilon {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(8, 1fr);
@@ -262,7 +262,7 @@ main {
   font-weight: 500;
   color: #737373;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 991px) {
   .clients_epsilon-item-paragraph {
     max-width: 232px;
   }
